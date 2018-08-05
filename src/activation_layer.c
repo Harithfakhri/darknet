@@ -1,3 +1,4 @@
+// A file to make an activation layer
 #include "activation_layer.h"
 #include "utils.h"
 #include "cuda.h"
