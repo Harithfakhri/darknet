@@ -1,3 +1,4 @@
+//Select the activation mode
 #include "activations.h"
 
 #include <math.h>
